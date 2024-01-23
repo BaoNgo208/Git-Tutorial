@@ -6,4 +6,8 @@ public class hello {
          System.out.println("gau gau");
     }
 
+    public static void sleep() {
+        System.out.println("zzz");
+    }
+
 }
